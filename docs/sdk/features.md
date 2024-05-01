@@ -13,7 +13,7 @@ functionality that DevCycle supports across the SDKs.
 - [Evaluating Features & Using Variables](#evaluating-features--using-variables)
 - [Getting All Features](#getting-all-features)
 - [Getting All Variables](#getting-all-variables)
-- [Identifying Users / Setting Properties](#Identifying-a-User-or-Setting-Properties)
+- [Identifying Users / Setting Properties](#identifying-a-user-or-setting-properties)
 - [Tracking Events](#tracking-custom-events)
 
 **Limited**
