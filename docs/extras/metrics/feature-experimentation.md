@@ -11,9 +11,9 @@ Experimentation is available to all customers on any plan. However, to perform e
 
 ##  Overview
 
-At DevCycle we believe that experimentation should be a part of the natural lifecycle of all features. So no matter the [feature type](/essentials/features) selected, can be experimented on. Experiments can be as simple as comparing any target audiences against a metric, or can be fully [randomized](/essentials/targeting#serving-a-random-variation-experimentation--random-distribution) A/B tests using statistical methodologies.
+At DevCycle we believe that experimentation should be a part of the natural lifecycle of all features. So no matter the [feature type](/essentials/features) selected, it can be experimented on. Experiments can be as simple as comparing any target audiences against a metric, or can be fully [randomized](/essentials/targeting#serving-a-random-variation-experimentation--random-distribution) A/B tests using statistical methodologies.
 
-This article outlines why and how to run and analyze experiments on your features within DevCycle. 
+This article outlines why you should run experiments, and how to run and analyze experiments on your features within DevCycle. 
 
 ## Why Experiment
 
